@@ -153,7 +153,11 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
+# Dataset
+Artificio___wiki_art/
+MissTiny___wiki_art/
+#Token
+token.txt
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
