@@ -9,3 +9,9 @@ torch
 torchvision
 torchaudio
 xgboost
+scikit-learn
+matplotlib
+lightgbm
+pandas 
+openpyxl
+joblib

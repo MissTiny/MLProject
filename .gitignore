@@ -1,3 +1,6 @@
+# data file
+data_old/
+WikiArts_contrained/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
